@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="failed_attempts" translatable="false">
+        <item>@string/fail_1</item>
+        <item>@string/fail_2</item>
+        <item>@string/fail_3</item>
+    </string-array>
+    <string-array name="clock_style_values" translatable="false">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>

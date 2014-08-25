@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Paranoid Camera</string>
+    <string name="action_settings">Settings</string>
+    <string name="enable_photos">Enable security photos</string>
+    <string name="fail_1">One</string>
+    <string name="fail_2">Two</string>
+    <string name="fail_3">Three</string>
+    <string name="number_of_fails">Number of failed password attempts before picture is taken</string>
+    <string name="device_admin">Enable device admin</string>
+    <string name="picture_desc">picture</string>
+
+</resources>
